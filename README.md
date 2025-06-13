@@ -1,5 +1,5 @@
 # task5
-Day 6 task of the Data Analyst Internship
+Day 8 task of the Data Analyst Internship
 
 # Task 5 – Exploratory Data Analysis on Diamonds Dataset
 
